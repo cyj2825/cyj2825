@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>🐇 Yejin's Github 🐇</h1>
 <h3>💻 Tech Stack 💻</h3>
   
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"><br>
